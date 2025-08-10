@@ -1,4 +1,4 @@
-# riverpod_learn
+# BLoC learn
 
 A new Flutter project.
 
